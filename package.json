@@ -14,6 +14,17 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "overrides":{
+    "@typescript-eslint/eslint-plugin":{
+      "eslint": "$eslint"
+    },
+    "@typescript-eslint/parser": {
+      "eslint": "$eslint"
+    },
+    "eslint-plugin-react-hooks": {
+      "eslint": "$eslint"
+    }
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
