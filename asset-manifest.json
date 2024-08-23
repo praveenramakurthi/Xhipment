@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Xhipment/static/css/main.d221dc40.css",
+    "main.js": "/Xhipment/static/js/main.46a38615.js",
+    "index.html": "/Xhipment/index.html",
+    "main.d221dc40.css.map": "/Xhipment/static/css/main.d221dc40.css.map",
+    "main.46a38615.js.map": "/Xhipment/static/js/main.46a38615.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.46a38615.js"
+  ]
+}
